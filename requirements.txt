@@ -1,5 +1,4 @@
 langchain
-langgraph
 ipykernel
 python-dotenv
 langchain-groq
@@ -15,3 +14,9 @@ faiss-cpu
 chromadb
 
 typesense 
+
+langgraph
+langchain_google_genai
+langchain_core
+youtube-search-python
+youtube-search
